@@ -4,9 +4,9 @@ This project is a visually rich, interactive 3D simulation of our solar system. 
 
 ---
 
-## 📸 **Demo**
+## **Demo**
 
-![Solar System Demo](link-to-demo.gif) 
+[https://3-d-interactive-solar-system-simula.vercel.app](link-to-demo.gif) 
 
 ---
 
